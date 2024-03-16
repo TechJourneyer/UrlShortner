@@ -40,7 +40,7 @@
     <div id="popup" class="px-4 py-2 fixed inset-0 bg-gray-500 bg-opacity-75 flex justify-center items-center hidden" style="background-color: #33333382;">
         <div class="bg-white p-8 rounded shadow-lg px-4 py-2" style="width: 500px">
             <div class="flex justify-between items-center mb-4">
-                <h2 class="text-lg font-semibold">Popup Title</h2>
+                <h2 class="text-lg font-semibold">Edit Url</h2>
                 <button id="closePopup" class="closePopup text-gray-400 hover:text-gray-600 focus:outline-none">
                 <svg class="h-3 w-3 text-lime-600"  viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">  <path stroke="none" d="M0 0h24v24H0z"/>  <path d="M9 7 h-3a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-3" />  <path d="M9 15h3l8.5 -8.5a1.5 1.5 0 0 0 -3 -3l-8.5 8.5v3" />  <line x1="16" y1="5" x2="19" y2="8" /></svg>
                 </button>
